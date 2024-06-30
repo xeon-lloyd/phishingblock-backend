@@ -1,0 +1,15 @@
+{
+  "name": "vector-process",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "3.60.1"
+  },
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.13.0"
+  }
+}

@@ -1,0 +1,18 @@
+#folder
+##editor
+.vscode/
+
+##node_modules
+node_modules/
+
+
+#file
+##editor
+sftp-config.json
+app-release.apk
+
+##app_configs
+### 실제 사용시 주석 해제하고 github 연결
+#setting.js
+#ecosystem.config.js
+#env.js
